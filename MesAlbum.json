@@ -1,0 +1,16 @@
+{"collection": [
+          {
+          "type": "album",
+          "artist": "Bob",
+          "title": "Chatons avec Bob",
+          "publication": 2023,
+          "rating": 1
+     },
+          {
+          "type": "single",
+          "artist": "George",
+          "title": "Comptine Épique",
+          "publication": 2020,
+          "rating": 2
+     }
+]}
